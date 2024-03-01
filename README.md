@@ -15,22 +15,27 @@ ApexCharts.js
 
 How To Start App:
 npm run start
+<h1>Line Graph Chart</h1>
+<a href="https://ibb.co/5n31Jvp"><img src="https://i.ibb.co/k9TGP0b/Capture-MAi2.png" alt="Capture-MAi2" border="0"></a>
+
+<h1>Dashboard</h1>
+<a href="https://ibb.co/cNvhFRT"><img src="https://i.ibb.co/khy28zc/Capture-MAi.png" alt="Capture-MAi" border="0" /></a>
 
 Project Structure (Suggested):
+```plaintext
 marble/
 ├── public/
 │   └── index.html
 ├── src/
 │   ├── components/
 │   │   ├── Dashboard.jsx
-│   │   |── DashboardCard.jsx
-│   │   |── Graph.jsx
-│   │   |── Home.jsx
-│   │   |── Tab1.jsx
-│   │   |── Tab2.jsx
-│   │   |── Tab3.jsx 
-│   │   |── Tab4.jsx 
-│   │   
+│   │   ├── DashboardCard.jsx
+│   │   ├── Graph.jsx
+│   │   ├── Home.jsx
+│   │   ├── Tab1.jsx
+│   │   ├── Tab2.jsx
+│   │   ├── Tab3.jsx 
+│   │   └── Tab4.jsx 
 │   ├── ContextAPI/
 │   │   └── Contextprovider.jsx
 │   ├── App.css
@@ -38,5 +43,8 @@ marble/
 │   ├── index.css
 │   └── index.js
 ├── package.json
-└── README.md
+├── README.md
 └── tailwind.config.js
+
+
+
