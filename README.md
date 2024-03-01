@@ -15,6 +15,9 @@ ApexCharts.js
 
 How To Start App:
 npm run start
+
+Project Url
+<a href="https://marbleaiapp.vercel.app/">Click Here</a>
 <h1>Line Graph Chart</h1>
 <a href="https://ibb.co/5n31Jvp"><img src="https://i.ibb.co/k9TGP0b/Capture-MAi2.png" alt="Capture-MAi2" border="0"></a>
 
